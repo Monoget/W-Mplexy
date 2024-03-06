@@ -1,0 +1,47 @@
+ErrorDocument 404 http://localhost/W-Mplexy/error
+
+RewriteEngine on
+
+RewriteRule ^home index.html [NE,L]
+
+RewriteRule ^about about.html [NE,L]
+
+RewriteRule ^services services.html [NE,L]
+
+RewriteRule ^seo search-engine-optimization.html [NE,L]
+
+RewriteRule ^ppc pay-per-click.html [NE,L]
+
+RewriteRule ^social-media social-media-marketing.html [NE,L]
+
+RewriteRule ^content-writing content-writing.html [NE,L]
+
+RewriteRule ^email-marketing email-marketing.html [NE,L]
+
+RewriteRule ^analytics analytics-and-reporting.html [NE,L]
+
+RewriteRule ^web-design website-design-and-development.html [NE,L]
+
+RewriteRule ^graphic-design graphic-design.html [NE,L]
+
+RewriteRule ^online-reputation online-reputation-management.html [NE,L]
+
+RewriteRule ^advertising advertising.html [NE,L]
+
+RewriteRule ^lead-generation lead-generation.html [NE,L]
+
+RewriteRule ^web-research web-research.html [NE,L]
+
+RewriteRule ^portfolio portfolio.html [NE,L]
+
+RewriteRule ^faq faq.html [NE,L]
+
+RewriteRule ^contact contact.html [NE,L]
+
+RewriteRule ^terms-and-condition terms-and-condition.html [NE,L]
+
+RewriteRule ^privacy-policy privacy-policy.html [NE,L]
+
+RewriteRule ^error error.html [NE,L]
+
+RewriteRule ^insert insert.php [NE,L]
