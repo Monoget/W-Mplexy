@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b761e262-56d8-4a26-a84e-def34812592c" name="Changes" comment="update privacy policy">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b761e262-56d8-4a26-a84e-def34812592c" name="Changes" comment="update sitemap">
+      <change beforePath="$PROJECT_DIR$/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sitemap.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1709749190510</updated>
       <workItem from="1709749191797" duration="3661000" />
-      <workItem from="1709924499733" duration="6870000" />
+      <workItem from="1709924499733" duration="7186000" />
     </task>
     <task id="LOCAL-00001" summary="update all">
       <created>1709756263246</created>
@@ -126,7 +126,21 @@
       <option name="project" value="LOCAL" />
       <updated>1709932518117</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="update sitemap">
+      <created>1709932982143</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1709932982143</updated>
+    </task>
+    <task id="LOCAL-00011" summary="update sitemap">
+      <created>1709933057537</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1709933057537</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,6 +154,7 @@
     <MESSAGE value="update services" />
     <MESSAGE value="update portfolio" />
     <MESSAGE value="update privacy policy" />
-    <option name="LAST_COMMIT_MESSAGE" value="update privacy policy" />
+    <MESSAGE value="update sitemap" />
+    <option name="LAST_COMMIT_MESSAGE" value="update sitemap" />
   </component>
 </project>
