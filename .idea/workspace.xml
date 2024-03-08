@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b761e262-56d8-4a26-a84e-def34812592c" name="Changes" comment="update services">
+    <list default="true" id="b761e262-56d8-4a26-a84e-def34812592c" name="Changes" comment="update portfolio">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy-policy.html" beforeDir="false" afterPath="$PROJECT_DIR$/privacy-policy.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +62,7 @@
       <option name="presentableId" value="Default" />
       <updated>1709749190510</updated>
       <workItem from="1709749191797" duration="3661000" />
-      <workItem from="1709924499733" duration="5149000" />
+      <workItem from="1709924499733" duration="6275000" />
     </task>
     <task id="LOCAL-00001" summary="update all">
       <created>1709756263246</created>
@@ -112,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1709930258274</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="update portfolio">
+      <created>1709931187941</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1709931187941</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,6 +132,7 @@
     <MESSAGE value="home about and error done" />
     <MESSAGE value="update contact page" />
     <MESSAGE value="update services" />
-    <option name="LAST_COMMIT_MESSAGE" value="update services" />
+    <MESSAGE value="update portfolio" />
+    <option name="LAST_COMMIT_MESSAGE" value="update portfolio" />
   </component>
 </project>
