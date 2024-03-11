@@ -4,9 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b761e262-56d8-4a26-a84e-def34812592c" name="Changes" comment="update all">
+    <list default="true" id="b761e262-56d8-4a26-a84e-def34812592c" name="Changes" comment="update seo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/advertising.html" beforeDir="false" afterPath="$PROJECT_DIR$/advertising.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/analytics-and-reporting.html" beforeDir="false" afterPath="$PROJECT_DIR$/analytics-and-reporting.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content-writing.html" beforeDir="false" afterPath="$PROJECT_DIR$/content-writing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/email-marketing.html" beforeDir="false" afterPath="$PROJECT_DIR$/email-marketing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphic-design.html" beforeDir="false" afterPath="$PROJECT_DIR$/graphic-design.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lead-generation.html" beforeDir="false" afterPath="$PROJECT_DIR$/lead-generation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-reputation-management.html" beforeDir="false" afterPath="$PROJECT_DIR$/online-reputation-management.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pay-per-click.html" beforeDir="false" afterPath="$PROJECT_DIR$/pay-per-click.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/search-engine-optimization.html" beforeDir="false" afterPath="$PROJECT_DIR$/search-engine-optimization.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-media-marketing.html" beforeDir="false" afterPath="$PROJECT_DIR$/social-media-marketing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-research.html" beforeDir="false" afterPath="$PROJECT_DIR$/web-research.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website-design-and-development.html" beforeDir="false" afterPath="$PROJECT_DIR$/website-design-and-development.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -214,7 +225,14 @@
       <option name="project" value="LOCAL" />
       <updated>1710177064423</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="update seo">
+      <created>1710178508879</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1710178508879</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -243,6 +261,7 @@
     <MESSAGE value="update all seo" />
     <MESSAGE value="update all google analytics" />
     <MESSAGE value="update all" />
-    <option name="LAST_COMMIT_MESSAGE" value="update all" />
+    <MESSAGE value="update seo" />
+    <option name="LAST_COMMIT_MESSAGE" value="update seo" />
   </component>
 </project>
