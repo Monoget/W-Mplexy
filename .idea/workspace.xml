@@ -4,30 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b761e262-56d8-4a26-a84e-def34812592c" name="Changes" comment="update all google analytics">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advertising.html" beforeDir="false" afterPath="$PROJECT_DIR$/advertising.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/analytics-and-reporting.html" beforeDir="false" afterPath="$PROJECT_DIR$/analytics-and-reporting.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content-writing.html" beforeDir="false" afterPath="$PROJECT_DIR$/content-writing.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/email-marketing.html" beforeDir="false" afterPath="$PROJECT_DIR$/email-marketing.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/error.html" beforeDir="false" afterPath="$PROJECT_DIR$/error.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/faq.html" beforeDir="false" afterPath="$PROJECT_DIR$/faq.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphic-design.html" beforeDir="false" afterPath="$PROJECT_DIR$/graphic-design.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lead-generation.html" beforeDir="false" afterPath="$PROJECT_DIR$/lead-generation.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/online-reputation-management.html" beforeDir="false" afterPath="$PROJECT_DIR$/online-reputation-management.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pay-per-click.html" beforeDir="false" afterPath="$PROJECT_DIR$/pay-per-click.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/privacy-policy.html" beforeDir="false" afterPath="$PROJECT_DIR$/privacy-policy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/search-engine-optimization.html" beforeDir="false" afterPath="$PROJECT_DIR$/search-engine-optimization.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/services.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/social-media-marketing.html" beforeDir="false" afterPath="$PROJECT_DIR$/social-media-marketing.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/terms-and-condition.html" beforeDir="false" afterPath="$PROJECT_DIR$/terms-and-condition.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-research.html" beforeDir="false" afterPath="$PROJECT_DIR$/web-research.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website-design-and-development.html" beforeDir="false" afterPath="$PROJECT_DIR$/website-design-and-development.html" afterDir="false" />
-    </list>
+    <list default="true" id="b761e262-56d8-4a26-a84e-def34812592c" name="Changes" comment="update all chat" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
