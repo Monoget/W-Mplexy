@@ -86,7 +86,7 @@ $db_handle = new DBController();
                                     </thead>
                                     <tbody>
                                     <?php
-                                    $contact_data = $db_handle->runQuery("SELECT * FROM contact order by approve desc");
+                                    $contact_data = $db_handle->runQuery("SELECT * FROM contact order by id desc");
                                     $row_count = $db_handle->numRows("SELECT * FROM contact order by id desc");
 
                                     for ($i = 0; $i < $row_count; $i++) {

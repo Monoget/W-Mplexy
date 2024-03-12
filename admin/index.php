@@ -18,12 +18,12 @@ if (isset($_POST["submit"])) {
 
         echo "<script>
                 document.cookie = 'alert = 1;';
-                window.location.href='Dashboard';
+                window.location.href='dashboard';
                 </script>";
     }else{
         echo "<script>
                 document.cookie = 'alert = 2;';
-                window.location.href='Login';
+                window.location.href='login';
                 </script>";
     }
 }

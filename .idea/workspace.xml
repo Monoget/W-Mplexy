@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b761e262-56d8-4a26-a84e-def34812592c" name="Changes" comment="update newsletter">
+    <list default="true" id="b761e262-56d8-4a26-a84e-def34812592c" name="Changes" comment="update data">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/admin/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/contact.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/newsletter.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/newsletter.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/dashboard.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/dashboard.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +69,7 @@
       <workItem from="1710085271010" duration="6907000" />
       <workItem from="1710175074427" duration="983000" />
       <workItem from="1710248540366" duration="3230000" />
-      <workItem from="1710257805746" duration="4852000" />
+      <workItem from="1710257805746" duration="4967000" />
     </task>
     <task id="LOCAL-00001" summary="update all">
       <created>1709756263246</created>
@@ -273,7 +274,14 @@
       <option name="project" value="LOCAL" />
       <updated>1710261594255</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="update data">
+      <created>1710262977190</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1710262977190</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -309,6 +317,7 @@
     <MESSAGE value="image change" />
     <MESSAGE value="css change" />
     <MESSAGE value="update newsletter" />
-    <option name="LAST_COMMIT_MESSAGE" value="update newsletter" />
+    <MESSAGE value="update data" />
+    <option name="LAST_COMMIT_MESSAGE" value="update data" />
   </component>
 </project>
