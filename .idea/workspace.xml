@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b761e262-56d8-4a26-a84e-def34812592c" name="Changes" comment="update admin">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/insert.php" beforeDir="false" afterPath="$PROJECT_DIR$/insert.php" afterDir="false" />
+    <list default="true" id="b761e262-56d8-4a26-a84e-def34812592c" name="Changes" comment="update">
+      <change beforePath="$PROJECT_DIR$/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +74,7 @@
       <workItem from="1710085271010" duration="6907000" />
       <workItem from="1710175074427" duration="983000" />
       <workItem from="1710248540366" duration="3230000" />
-      <workItem from="1710257805746" duration="7989000" />
+      <workItem from="1710257805746" duration="8274000" />
     </task>
     <task id="LOCAL-00001" summary="update all">
       <created>1709756263246</created>
@@ -295,7 +293,21 @@
       <option name="project" value="LOCAL" />
       <updated>1710263309305</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="update all">
+      <created>1710266181624</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1710266181624</updated>
+    </task>
+    <task id="LOCAL-00033" summary="update">
+      <created>1710266248559</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1710266248560</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -323,7 +335,6 @@
     <MESSAGE value="update faq and terms and conditions" />
     <MESSAGE value="update all seo" />
     <MESSAGE value="update all google analytics" />
-    <MESSAGE value="update all" />
     <MESSAGE value="update seo" />
     <MESSAGE value="about updated every content" />
     <MESSAGE value="update testimonial" />
@@ -333,6 +344,8 @@
     <MESSAGE value="update newsletter" />
     <MESSAGE value="update data" />
     <MESSAGE value="update admin" />
-    <option name="LAST_COMMIT_MESSAGE" value="update admin" />
+    <MESSAGE value="update all" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
 </project>

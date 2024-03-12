@@ -1,4 +1,4 @@
-ErrorDocument 404 http://localhost/W-Mplexy/error
+ErrorDocument 404 https://mplexy.com/error
 
 RewriteEngine on
 
