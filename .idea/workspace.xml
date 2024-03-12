@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b761e262-56d8-4a26-a84e-def34812592c" name="Changes" comment="update testimonial">
+    <list default="true" id="b761e262-56d8-4a26-a84e-def34812592c" name="Changes" comment="update faq">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/advertising.html" beforeDir="false" afterPath="$PROJECT_DIR$/advertising.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/analytics-and-reporting.html" beforeDir="false" afterPath="$PROJECT_DIR$/analytics-and-reporting.html" afterDir="false" />
@@ -42,24 +42,24 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/xampp/htdocs/W-Mplexy/images/meta&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/xampp/htdocs/W-Mplexy/images",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\W-Mplexy\images" />
       <recent name="C:\xampp\htdocs\W-Mplexy\images\meta" />
       <recent name="C:\xampp\htdocs\W-Mplexy" />
-      <recent name="C:\xampp\htdocs\W-Mplexy\images" />
       <recent name="C:\xampp\htdocs\W-Mplexy\images\home-portfolio-big" />
       <recent name="C:\xampp\htdocs\W-Mplexy\images\home-portfolio-small" />
     </key>
@@ -78,7 +78,7 @@
       <workItem from="1710085271010" duration="6907000" />
       <workItem from="1710175074427" duration="983000" />
       <workItem from="1710248540366" duration="3230000" />
-      <workItem from="1710257805746" duration="806000" />
+      <workItem from="1710257805746" duration="2248000" />
     </task>
     <task id="LOCAL-00001" summary="update all">
       <created>1709756263246</created>
@@ -248,7 +248,14 @@
       <option name="project" value="LOCAL" />
       <updated>1710250721310</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="update faq">
+      <created>1710258633303</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1710258633303</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -280,6 +287,7 @@
     <MESSAGE value="update seo" />
     <MESSAGE value="about updated every content" />
     <MESSAGE value="update testimonial" />
-    <option name="LAST_COMMIT_MESSAGE" value="update testimonial" />
+    <MESSAGE value="update faq" />
+    <option name="LAST_COMMIT_MESSAGE" value="update faq" />
   </component>
 </project>
