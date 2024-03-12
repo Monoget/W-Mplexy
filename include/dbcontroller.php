@@ -17,9 +17,9 @@ class DBController {
     function __construct() {
         if($_SERVER['SERVER_NAME']=="mplexy.com"||$_SERVER['SERVER_NAME']=="www.mplexy.com"){
             $this->host = "localhost";
-            $this->user = "upgggnkkroycy";
+            $this->user = "uulkija42gxw3";
             $this->password = "3e4bt%D1&2%o";
-            $this->database = "dbqgbcctouhijk";
+            $this->database = "dbahx417uozmvp";
         }
 
         $this->conn = $this->connectDB();
