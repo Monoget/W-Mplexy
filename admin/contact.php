@@ -79,11 +79,9 @@ $db_handle = new DBController();
                                         <th>ID No</th>
                                         <th>Name</th>
                                         <th>Email</th>
-                                        <th>Subject</th>
+                                        <th>Phone</th>
                                         <th>Message</th>
-                                        <th>Status</th>
                                         <th>Date</th>
-                                        <th>Action</th>
                                     </tr>
                                     </thead>
                                     <tbody>
@@ -96,43 +94,18 @@ $db_handle = new DBController();
                                         <tr>
                                             <td><?php echo $i + 1; ?></td>
                                             <td>#<?php echo $contact_data[$i]["id"]; ?></td>
-                                            <td><?php echo $contact_data[$i]["name"]; ?></td>
+                                            <td><?php echo $contact_data[$i]["fname"]; ?> <?php echo $contact_data[$i]["lname"]; ?></td>
                                             <td><?php echo $contact_data[$i]["email"]; ?></td>
-                                            <td><?php echo $contact_data[$i]["subject"]; ?></td>
+                                            <td><?php echo $contact_data[$i]["phone"]; ?></td>
                                             <td><?php echo $contact_data[$i]["message"]; ?></td>
                                             <td>
                                                 <?php
-                                                if ($contact_data[$i]["approve"] == 3) {
-                                                    ?>
-                                                    <span class="badge light badge-info">Pending</span>
-                                                    <?php
-                                                } else if ($contact_data[$i]["approve"] == 2) {
-                                                    ?>
-                                                    <span class="badge light badge-success">Solved</span>
-                                                    <?php
-                                                } else {
-                                                    ?>
-                                                    <span class="badge light badge-danger">Decline</span>
-                                                    <?php
-                                                }
-                                                ?>
-                                            </td>
-                                            <td>
-                                                <?php
 
-                                                $datetime = new DateTime($contact_data[$i]["updated_at"]);
+                                                $datetime = new DateTime($contact_data[$i]["inserted_at"]);
                                                 $la_time = new DateTimeZone('America/New_York');
                                                 $datetime->setTimezone($la_time);
 
                                                 echo $datetime->format('d/m/Y h:i A'); ?>
-                                            </td>
-                                            <td>
-                                                <div class="d-flex">
-                                                    <a href="Approve?contact_id=<?php echo $contact_data[$i]["id"]; ?>" class="btn btn-success shadow btn-xs sharp mr-1"><i
-                                                                class="fa fa-check"></i></a>
-                                                    <a href="Decline?contact_id=<?php echo $contact_data[$i]["id"]; ?>" class="btn btn-danger shadow btn-xs sharp"><i
-                                                                class="fa fa-times-circle"></i></a>
-                                                </div>
                                             </td>
                                         </tr>
                                         <?php

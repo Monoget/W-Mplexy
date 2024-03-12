@@ -95,7 +95,7 @@ $db_handle = new DBController();
                                             <td>
                                                 <?php
 
-                                                $datetime = new DateTime($newsletter_data[$i]["updated_at"]);
+                                                $datetime = new DateTime($newsletter_data[$i]["inserted_at"]);
                                                 $la_time = new DateTimeZone('America/New_York');
                                                 $datetime->setTimezone($la_time);
 
