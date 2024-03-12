@@ -638,14 +638,15 @@
                         subscribe to our newsletter.</p>
                     <!-- RD Mailform: Subscribe-->
                     <form class="rd-mailform rd-mailform-inline rd-mailform-sm" data-form-output="form-output-global"
-                          data-form-type="subscribe" method="post" action="">
+                          data-form-type="subscribe" method="post" action="insert">
                         <div class="rd-mailform-inline-inner">
                             <div class="form-wrap">
                                 <input class="form-input" type="email" name="email" data-constraints="@Email @Required"
                                        id="subscribe-form-email-1"/>
                                 <label class="form-label" for="subscribe-form-email-1">Enter your e-mail</label>
+                                <input type="hidden" name="page" value="faq"/>
                             </div>
-                            <button class="button form-button button-sm button-primary" type="submit">Subscribe</button>
+                            <button class="button form-button button-sm button-primary" name="newsletter" type="submit">Subscribe</button>
                         </div>
                     </form>
                 </div>
