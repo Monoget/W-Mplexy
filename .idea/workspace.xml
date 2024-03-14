@@ -5,14 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b761e262-56d8-4a26-a84e-def34812592c" name="Changes" comment="update">
-      <change beforePath="$PROJECT_DIR$/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/advertising.html" beforeDir="false" afterPath="$PROJECT_DIR$/advertising.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/analytics-and-reporting.html" beforeDir="false" afterPath="$PROJECT_DIR$/analytics-and-reporting.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content-writing.html" beforeDir="false" afterPath="$PROJECT_DIR$/content-writing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/email-marketing.html" beforeDir="false" afterPath="$PROJECT_DIR$/email-marketing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/faq.html" beforeDir="false" afterPath="$PROJECT_DIR$/faq.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphic-design.html" beforeDir="false" afterPath="$PROJECT_DIR$/graphic-design.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lead-generation.html" beforeDir="false" afterPath="$PROJECT_DIR$/lead-generation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-reputation-management.html" beforeDir="false" afterPath="$PROJECT_DIR$/online-reputation-management.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pay-per-click.html" beforeDir="false" afterPath="$PROJECT_DIR$/pay-per-click.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy-policy.html" beforeDir="false" afterPath="$PROJECT_DIR$/privacy-policy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-engine-optimization.html" beforeDir="false" afterPath="$PROJECT_DIR$/search-engine-optimization.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/services.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-media-marketing.html" beforeDir="false" afterPath="$PROJECT_DIR$/social-media-marketing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/terms-and-condition.html" beforeDir="false" afterPath="$PROJECT_DIR$/terms-and-condition.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-research.html" beforeDir="false" afterPath="$PROJECT_DIR$/web-research.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website-design-and-development.html" beforeDir="false" afterPath="$PROJECT_DIR$/website-design-and-development.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings">
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/PHPMailer/composer.json</pharConfigPath>
     <execution />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -37,20 +60,20 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/xampp/htdocs/W-Mplexy",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/xampp/htdocs/W-Mplexy&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\xampp\htdocs\W-Mplexy" />
@@ -74,7 +97,8 @@
       <workItem from="1710085271010" duration="6907000" />
       <workItem from="1710175074427" duration="983000" />
       <workItem from="1710248540366" duration="3230000" />
-      <workItem from="1710257805746" duration="8274000" />
+      <workItem from="1710257805746" duration="8648000" />
+      <workItem from="1710432911887" duration="1678000" />
     </task>
     <task id="LOCAL-00001" summary="update all">
       <created>1709756263246</created>
@@ -307,7 +331,14 @@
       <option name="project" value="LOCAL" />
       <updated>1710266248560</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="update">
+      <created>1710266398145</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1710266398145</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
