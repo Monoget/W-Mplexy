@@ -6,8 +6,26 @@
   <component name="ChangeListManager">
     <list default="true" id="b761e262-56d8-4a26-a84e-def34812592c" name="Changes" comment="update all">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/advertising.html" beforeDir="false" afterPath="$PROJECT_DIR$/advertising.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/analytics-and-reporting.html" beforeDir="false" afterPath="$PROJECT_DIR$/analytics-and-reporting.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content-writing.html" beforeDir="false" afterPath="$PROJECT_DIR$/content-writing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/email-marketing.html" beforeDir="false" afterPath="$PROJECT_DIR$/email-marketing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/faq.html" beforeDir="false" afterPath="$PROJECT_DIR$/faq.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphic-design.html" beforeDir="false" afterPath="$PROJECT_DIR$/graphic-design.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lead-generation.html" beforeDir="false" afterPath="$PROJECT_DIR$/lead-generation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-reputation-management.html" beforeDir="false" afterPath="$PROJECT_DIR$/online-reputation-management.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pay-per-click.html" beforeDir="false" afterPath="$PROJECT_DIR$/pay-per-click.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy-policy.html" beforeDir="false" afterPath="$PROJECT_DIR$/privacy-policy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-engine-optimization.html" beforeDir="false" afterPath="$PROJECT_DIR$/search-engine-optimization.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/services.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-media-marketing.html" beforeDir="false" afterPath="$PROJECT_DIR$/social-media-marketing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/terms-and-condition.html" beforeDir="false" afterPath="$PROJECT_DIR$/terms-and-condition.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-research.html" beforeDir="false" afterPath="$PROJECT_DIR$/web-research.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website-design-and-development.html" beforeDir="false" afterPath="$PROJECT_DIR$/website-design-and-development.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +96,7 @@
       <workItem from="1710175074427" duration="983000" />
       <workItem from="1710248540366" duration="3230000" />
       <workItem from="1710257805746" duration="8648000" />
-      <workItem from="1710432911887" duration="1875000" />
+      <workItem from="1710432911887" duration="2822000" />
     </task>
     <task id="LOCAL-00001" summary="update all">
       <created>1709756263246</created>
@@ -325,7 +343,14 @@
       <option name="project" value="LOCAL" />
       <updated>1710434874738</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="update all">
+      <created>1710435055139</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1710435055139</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
