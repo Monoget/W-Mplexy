@@ -7,6 +7,17 @@
     <list default="true" id="b761e262-56d8-4a26-a84e-def34812592c" name="Changes" comment="update all">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/advertising.html" beforeDir="false" afterPath="$PROJECT_DIR$/advertising.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/analytics-and-reporting.html" beforeDir="false" afterPath="$PROJECT_DIR$/analytics-and-reporting.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content-writing.html" beforeDir="false" afterPath="$PROJECT_DIR$/content-writing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/email-marketing.html" beforeDir="false" afterPath="$PROJECT_DIR$/email-marketing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphic-design.html" beforeDir="false" afterPath="$PROJECT_DIR$/graphic-design.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lead-generation.html" beforeDir="false" afterPath="$PROJECT_DIR$/lead-generation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-reputation-management.html" beforeDir="false" afterPath="$PROJECT_DIR$/online-reputation-management.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pay-per-click.html" beforeDir="false" afterPath="$PROJECT_DIR$/pay-per-click.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-engine-optimization.html" beforeDir="false" afterPath="$PROJECT_DIR$/search-engine-optimization.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-media-marketing.html" beforeDir="false" afterPath="$PROJECT_DIR$/social-media-marketing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-research.html" beforeDir="false" afterPath="$PROJECT_DIR$/web-research.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website-design-and-development.html" beforeDir="false" afterPath="$PROJECT_DIR$/website-design-and-development.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +90,8 @@
       <workItem from="1710257805746" duration="8648000" />
       <workItem from="1710432911887" duration="3172000" />
       <workItem from="1710437764675" duration="1726000" />
-      <workItem from="1710517540454" duration="450000" />
+      <workItem from="1710517540454" duration="1144000" />
+      <workItem from="1710606475471" duration="4526000" />
     </task>
     <task id="LOCAL-00001" summary="update all">
       <created>1709756263246</created>
@@ -361,7 +373,14 @@
       <option name="project" value="LOCAL" />
       <updated>1710517947115</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="update all">
+      <created>1710518029380</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1710518029380</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
