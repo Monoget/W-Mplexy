@@ -63,7 +63,44 @@
         })();
     </script>
     <!--End of Tawk.to Script-->
+    <script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
+    <script type="text/javascript">
+        function googleTranslateElementInit() {
+            new google.translate.TranslateElement({
+                pageLanguage: 'en',
+                includedLanguages: 'en,it,es,pt',
+                layout: google.translate.TranslateElement.InlineLayout.SIMPLE
+            }, 'google_translate_element');
+        }
+    </script>
+
+    <style>
+        .goog-te-gadget-icon {
+            display: none;
+        }
+
+        .goog-te-gadget-simple {
+            background: none;
+            border: none;
+        }
+
+        .goog-te-gadget-simple .goog-te-menu-value {
+            color: white;
+        }
+
+        .btn-link:hover {
+            text-decoration: none;
+        }
+
+        .goog-te-gadget-simple {
+            font-size: 15px;
+        }
+
+        .button-sm:hover .goog-te-gadget-simple .VIpgJd-ZVi9od-xl07Ob-lTBxed, .button-sm:hover .VIpgJd-ZVi9od-xl07Ob-lTBxed span {
+            color:#fff !important;
+        }
+    </style>
     <!-- Developer: Monoget Saha (www.monoget.com.bd) -->
 </head>
 <body>
@@ -177,8 +214,10 @@
                         </div>
                         <div class="rd-navbar-aside-right rd-navbar-collapse">
                             <!-- RD Navbar Search-->
-                            <a class="button button-sm button-default-outline"
-                               href="https://calendar.app.google/hAvCZJvoEAtc4tcj9" target="_blank">book your service</a>
+                            <a class="language-selector button button-sm button-default-outline"
+                               style="display: block;white-space: unset;letter-spacing: unset;border:3px solid #ededed;">
+                                <span id="google_translate_element"></span>
+                            </a>
                         </div>
                     </div>
                 </nav>
